@@ -5,6 +5,7 @@ A way of grouping the data points into different clusters, consisting of similar
 
 ## Customer_Segementation
 The [Dataset](https://github.com/VaishnavRathod/Customer_Segementation/blob/main/Dataset/Mall_Customers.csv) is containing the information of customers that have visited a mall for shopping. So, the mall owner wants to find some patterns or some particular behavior of his customers using the dataset information. Below is the image representing the information for the dataset: 
+
 ![info](https://github.com/VaishnavRathod/Customer_Segementation/assets/90707178/809a6986-a49f-45de-9d2a-fc2dfbd2f848)
 ![data](https://github.com/VaishnavRathod/Customer_Segementation/assets/90707178/1d505231-d7ae-42bd-afd3-0fd85b3f91cf)
 ![Stats](https://github.com/VaishnavRathod/Customer_Segementation/assets/90707178/a1b2de15-f4ab-4893-8457-872827a6fb19)
